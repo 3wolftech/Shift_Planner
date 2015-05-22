@@ -10,7 +10,7 @@ public class Login extends Activity {
 
     Animation animLoginLogo;
     ImageView ivLoginLogo;
-
+    //comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
